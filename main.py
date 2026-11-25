@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-TEXT = "My boss said 'let's circle back,' so I have been walking in a circle since March and my step count is incredible."
+TEXT = "I asked for a raise and got a pizza party. At this exchange rate I now own 0.3% of a pepperoni."
 
 
 def main() -> None:
